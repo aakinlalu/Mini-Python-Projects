@@ -1,0 +1,12 @@
+{
+    "__version__": 2,
+    "keys": [
+        "poem_string.ipynb",
+        "poem_string.py",
+        "poem_string_solution.py",
+        "problem_manifest.json"
+    ],
+    "show_keys": [
+        "poem_string.ipynb"
+    ]
+}
